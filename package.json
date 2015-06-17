@@ -1,6 +1,6 @@
 {
   "name": "hubot-bitly",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bitly integration for hubot",
   "main": "index.js",
   "scripts": {
