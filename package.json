@@ -1,0 +1,24 @@
+{
+  "name": "hubot-bitly",
+  "version": "1.0.0",
+  "description": "Bitly integration fro hubot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drrobotnik/hubot-bitly.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "bitly"
+  ],
+  "author": "sleekslush, drdamour, johnwyles, drrobotnik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drrobotnik/hubot-bitly/issues"
+  },
+  "homepage": "https://github.com/drrobotnik/hubot-bitly#readme"
+}
