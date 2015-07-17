@@ -8,9 +8,9 @@
 #   None
 #
 # Commands:
-#   hubot task add <task> - Add a task
-#   hubot task list tasks - List the tasks
-#   hubot task delete <task number> - Delete a task
+#   *hubot task add `task`* - Add a task
+#   *hubot task list tasks* - List the tasks
+#   *hubot task delete `task number`* - Delete a task
 #
 # Author:
 #   Crofty
