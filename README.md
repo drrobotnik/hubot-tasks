@@ -8,18 +8,19 @@ Create shortlinks
 * Run the `npm install` command.
 
 ```
-$ npm install hubot-bitly
+$ npm install hubot-tasks
 ```
 
 * Add the following code in your `external-scripts.json` file.
 
 ```
-["hubot-bitly"]
+["hubot-tasks"]
 ```
 
 ## Sample Interaction
 
 ```
-hubot (bitly|shorten) (me) <url> - Shorten the URL using bit.ly
-http://bit.ly/[hash] - looks up the real url
+hubot task add <task> - Add a task
+hubot task list tasks - List the tasks
+hubot task delete <task number> - Delete a task
 ```

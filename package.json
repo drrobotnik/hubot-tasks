@@ -1,24 +1,24 @@
 {
-  "name": "hubot-bitly",
-  "version": "1.0.2",
-  "description": "Bitly integration for hubot",
+  "name": "hubot-tasks",
+  "version": "1.0.0",
+  "description": "Tasks for hubot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/drrobotnik/hubot-bitly.git"
+    "url": "git://github.com/drrobotnik/hubot-tasks.git"
   },
   "keywords": [
     "hubot",
     "hubot-scripts",
-    "bitly"
+    "tasks"
   ],
-  "author": "sleekslush, drdamour, johnwyles, drrobotnik",
+  "author": "Crofty, drrobotnik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/drrobotnik/hubot-bitly/issues"
+    "url": "https://github.com/drrobotnik/hubot-tasks/issues"
   },
-  "homepage": "https://github.com/drrobotnik/hubot-bitly#readme"
+  "homepage": "https://github.com/drrobotnik/hubot-tasks#readme"
 }
