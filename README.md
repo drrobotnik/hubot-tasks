@@ -1,4 +1,4 @@
-hubot-bitly
+hubot-tasks
 =============
 
 Create shortlinks
